@@ -1,8 +1,13 @@
 [package]
 name = "epsilla-client"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+authors = ["Epsilla Team <info@epsilla.com>"]
+description = "Epsilla Rust SDK"
+documentation = "https://epsilla-inc.gitbook.io/epsilladb"
+homepage = "https://epsilla.com/"
+license = "GPL-3.0"
+repository = "https://github.com/epsilla-cloud/vectordb"
+readme = "README.md"
 
 [dependencies]
